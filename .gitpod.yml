@@ -1,4 +1,6 @@
 image: tmy2017/gitpod-pm:ver-1639859882
 tasks:
-  - init: npm install
+  - init: npm install; cd client; npm install; docker pull camunda/camunda-bpm-platform:run-latest
     command: npm run dev
+  - command: docker run -d --name camunda -p 8080:8080 camunda/camunda-bpm-platform:run-latest
+    openMode: split-right
