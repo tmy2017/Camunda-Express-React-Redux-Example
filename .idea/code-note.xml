@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="note-storage">
+    <option name="notes">
+      <list>
+        <NoteState>
+          <option name="errors">
+            <set />
+          </option>
+          <option name="id" value="81048076-b766-43c0-8937-32cea8b116a1" />
+          <option name="nodeRange">
+            <NodeRangeState>
+              <option name="left">
+                <list>
+                  <option value="PsiComment(JS:END_OF_LINE_COMMENT)" />
+                </list>
+              </option>
+              <option name="right">
+                <list>
+                  <option value="PsiComment(JS:END_OF_LINE_COMMENT)" />
+                </list>
+              </option>
+            </NodeRangeState>
+          </option>
+          <option name="text" value=" login here! " />
+          <option name="textRange">
+            <TextRangeState>
+              <option name="hash" value="BB7AB01920E668A383FF6EE4A01DCF2F" />
+              <option name="left" value="3605" />
+              <option name="right" value="3615" />
+            </TextRangeState>
+          </option>
+          <option name="time" value="1639865470138" />
+          <option name="type" value="INFO" />
+          <option name="url" value="file://$PROJECT_DIR$/server.js" />
+          <option name="user">
+            <UserState>
+              <option name="name" value="nh2018gc" />
+            </UserState>
+          </option>
+        </NoteState>
+      </list>
+    </option>
+  </component>
+</project>
