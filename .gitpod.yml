@@ -1,4 +1,4 @@
-image: tmy2017/gitpod-pm:latest
+image: tmy2017/gitpod-pm:ver-1639855503
 tasks:
   - init: npm install
     command: npm run dev
