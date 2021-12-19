@@ -12,7 +12,7 @@ dotenv.config()
 const { body, validationResult } = validator
 
 const port = process.env.PORT || 8000
-const baseURL = process.env.CAMUNDA_BASE_URL
+const baseURL = process.env.CAMUNDA_BASE_URL || 'http://localhost:8080/engine-rest'
 
 const app = express()
 app.use(cors())
