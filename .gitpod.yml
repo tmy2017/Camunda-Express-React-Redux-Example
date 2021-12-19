@@ -1,4 +1,4 @@
-image: tmy2017/gitpod-pm:ver-1639931429
+image: tmy2017/gitpod-pm:ver-1639939004
 tasks:
   # --prefix can install different folder, very handy! https://stackoverflow.com/questions/36172442/how-can-i-get-npm-start-at-a-different-directory 
   - init: npm install; npm install --prefix client; docker pull camunda/camunda-bpm-platform:run-latest
