@@ -1,6 +1,9 @@
 # Default ignored files
 /shelf/
-# need to uncomment - for gitpod only - to persist ex: bookmark and php debug port 
+# need to uncomment - for gitpod only - to persist ex: php debug port & breakpoint 
+#   !!! NOTE: but BOOKMARKS are in the .config folder, NOT HERE! 
+#   so it is better to use Code Notes plugin since data is inside project folder 
+#   https://plugins.jetbrains.com/plugin/13028-code-notes
 # /workspace.xml
 # Datasource local storage ignored files
 /dataSources/
