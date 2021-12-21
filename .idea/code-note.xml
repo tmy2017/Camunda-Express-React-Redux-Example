@@ -7,30 +7,80 @@
           <option name="errors">
             <set />
           </option>
-          <option name="id" value="81048076-b766-43c0-8937-32cea8b116a1" />
+          <option name="id" value="9645f787-06e4-448f-a32f-3d732431712d" />
           <option name="nodeRange">
             <NodeRangeState>
               <option name="left">
                 <list>
-                  <option value="PsiComment(JS:END_OF_LINE_COMMENT)" />
+                  <option value="JSExpressionStatement" />
+                  <option value="JSCallExpression" />
+                  <option value="JSReferenceExpression" />
+                  <option value="PsiElement(JS:IDENTIFIER)" />
                 </list>
               </option>
               <option name="right">
                 <list>
-                  <option value="PsiComment(JS:END_OF_LINE_COMMENT)" />
+                  <option value="JSExpressionStatement" />
+                  <option value="JSCallExpression" />
+                  <option value="JSReferenceExpression" />
+                  <option value="PsiElement(JS:IDENTIFIER)" />
                 </list>
               </option>
             </NodeRangeState>
           </option>
-          <option name="text" value=" login here! " />
+          <option name="text" value="login here" />
           <option name="textRange">
             <TextRangeState>
-              <option name="hash" value="BB7AB01920E668A383FF6EE4A01DCF2F" />
-              <option name="left" value="3605" />
-              <option name="right" value="3615" />
+              <option name="hash" value="42B90196B487C54069097A68FE98AB6F" />
+              <option name="left" value="3659" />
+              <option name="right" value="3663" />
             </TextRangeState>
           </option>
-          <option name="time" value="1639865470138" />
+          <option name="time" value="1640072963055" />
+          <option name="type" value="INFO" />
+          <option name="url" value="file://$PROJECT_DIR$/server.js" />
+          <option name="user">
+            <UserState>
+              <option name="name" value="nh2018gc" />
+            </UserState>
+          </option>
+        </NoteState>
+        <NoteState>
+          <option name="errors">
+            <set />
+          </option>
+          <option name="id" value="8a627ac3-156d-47e6-9b1a-178a1f9c84a5" />
+          <option name="nodeRange">
+            <NodeRangeState>
+              <option name="left">
+                <list>
+                  <option value="JSExpressionStatement" />
+                  <option value="JSCallExpression" />
+                  <option value="JSArgumentList" />
+                  <option value="JSLiteralExpression" />
+                  <option value="PsiElement(JS:STRING_LITERAL)" />
+                </list>
+              </option>
+              <option name="right">
+                <list>
+                  <option value="JSExpressionStatement" />
+                  <option value="JSCallExpression" />
+                  <option value="JSArgumentList" />
+                  <option value="JSLiteralExpression" />
+                  <option value="PsiElement(JS:STRING_LITERAL)" />
+                </list>
+              </option>
+            </NodeRangeState>
+          </option>
+          <option name="text" value="hihi" />
+          <option name="textRange">
+            <TextRangeState>
+              <option name="hash" value="4146EC82A0F0A638DB9293A0C2039E6B" />
+              <option name="left" value="3671" />
+              <option name="right" value="3677" />
+            </TextRangeState>
+          </option>
+          <option name="time" value="1640073405007" />
           <option name="type" value="INFO" />
           <option name="url" value="file://$PROJECT_DIR$/server.js" />
           <option name="user">
