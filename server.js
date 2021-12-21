@@ -168,14 +168,18 @@ app.post(
 
 		const { email, password } = req.body
 
-		const userId = getUserId(email)
+		const userId = 'demo'
+		// const userId = getUserId(email)
 
 		// TODO: Make API calls to Camunda here
 		try {
 			// Verify users credentials
 			const verifyResponse = await axios.post(baseURL + '/identity/verify', {
-				username: userId,
-				password,
+				username: 'demo',
+				password: 'demo'
+				// username: userId,
+				// password,
+
 			})
 
 			// Send a 400 response if user is not authenticated 😤
