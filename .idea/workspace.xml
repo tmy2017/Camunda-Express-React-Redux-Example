@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f5581f-544b-4897-bc17-0c8853c27ced" name="azfazfxcvwxcv" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitpod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitpod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/code-note.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/code-note.xml" afterDir="false" />
+    <list default="true" id="c1f5581f-544b-4897-bc17-0c8853c27ced" name="Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
     </list>
-    <list id="0148e889-7a86-4fd2-b970-b12219dc6ba3" name="azefzaefzef" comment="" />
-    <list id="c138f4a5-60d5-42ed-af1d-3df8f718bad5" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +27,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="22VrG24L0BPa9ykJ9kTwHsOXlUc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,22 +47,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="npm.dev">
-    <configuration name="Unnamed" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost">
-      <method v="2" />
-    </configuration>
-    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="dev" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.direct in IDE FE JS debug (does not work with gitpod)">
     <list>
-      <item itemvalue="JavaScript Debug.Unnamed" />
+      <item itemvalue="JavaScript Debug.direct in IDE FE JS debug (does not work with gitpod)" />
       <item itemvalue="npm.dev" />
     </list>
   </component>
@@ -71,8 +57,8 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c1f5581f-544b-4897-bc17-0c8853c27ced" name="Changes" comment="" />
-      <changelist id="0148e889-7a86-4fd2-b970-b12219dc6ba3" name="azefzaefzef" comment="" />
-      <changelist id="c138f4a5-60d5-42ed-af1d-3df8f718bad5" name="New changelist" comment="" />
+      <changelist id="" name="azefzaefzef" comment="" />
+      <changelist id="" name="New changelist" comment="" />
       <created>1639933498167</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -83,6 +69,7 @@
       <workItem from="1640072823357" duration="676000" />
       <workItem from="1640080514397" duration="1093000" />
       <workItem from="1640092127219" duration="2252000" />
+      <workItem from="1640157528758" duration="919000" />
     </task>
     <servers />
   </component>
@@ -116,7 +103,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -134,20 +120,23 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/server.js</url>
           <line>189</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/client/src/components/Login.jsx</url>
           <line>130</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/client/src/components/Login.jsx</url>
           <line>60</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client/src/index.js</url>
+          <line>10</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
